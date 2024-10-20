@@ -1,0 +1,9 @@
+Drop Time
+livingAreaValue
+BuilidngArea
+Listed for rent
+lotareaUnit
+zipcode??
+
+Interface with OpenAI to fill miss data from description
+
